@@ -6,7 +6,7 @@ On each terminal make sure to update and add Python.
 sudo dnf update
 sudo dnf install python3
 
-After that create .py files for client.py, edge.py, core.py, depending on what that is representing.
+After that create .py files for client.py, edge.py, core.py, depending on what that terminal is representing. edge.py and core.py use the same code.
 Make sure when you paste them you change the ip address at the top with what you got from the bottom of your Jupyter
 
 Once you have done that execute the edge.py file or core.py
